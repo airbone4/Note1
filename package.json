@@ -1,0 +1,22 @@
+{
+  "name": "helloku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airbone4/Note1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "8.9.1"
+  },  
+  "bugs": {
+    "url": "https://github.com/airbone4/Note1/issues"
+  },
+  "homepage": "https://github.com/airbone4/Note1#readme"
+}
